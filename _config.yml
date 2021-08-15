@@ -6,6 +6,7 @@ author: Buzhiliao
 language: zh-CN
 timezone: ''
 url: https://zhuzihan.github.io/blog
+root: /blog/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
