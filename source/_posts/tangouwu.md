@@ -1,5 +1,5 @@
 ---
-title: 谈工作
+title: 谈购物
 date: 2021-11-03 18:08:16
 tags: Thinking
 ---
